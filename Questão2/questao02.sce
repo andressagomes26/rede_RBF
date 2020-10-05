@@ -85,21 +85,6 @@ endfunction
 
 /********************** RESULTADOS ****************************/
 
-/* OBSERVAÇÃO: PARA VISUALIZAR OS GRÁFICOS PARA AS DIFERENTES QUANTIDADES DE NEURÔNIOS
-COMENTE A LINHA REFERENTE À PLOTAGEM DO GRÁFICO DAQUELE QUE NÃO DESEJA SER VISUALIZADO 
-E RETIRE OS COMENTÁRIOS PARA AS DEMAIS QUANTIDADES DE NEURÔNIOS. EXEMPLO:
-
-    // plotar(y_preditor, R2, 5)    -> Comentar essa linha
-             ...
-      plotar(y_preditor, R2, 10)    -> Retirar o comentário para ver o gráfico para 10
-                                        neurônios ocultos;
-                                        
-   SE PREFERIR, É POSSÍVEL ALTERAR APENAS O VALOR DE "n" PARA DETERMINAR A QUANTIDADE DE 
-   NEURÔNIOS OCULTOS.
-   
-   OS VALORES DE R2 SÃO MOSTRADOS NOS GRÁFICOS E NA TELA.                                   
-*/
-
 disp('--------- REDE RBF COM 2 NEURÔNIOS OCULTOS -------------')
 n = 2
 [Z, w] = pesos(n)
