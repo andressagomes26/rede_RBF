@@ -1,5 +1,5 @@
 <h1 align='center'>
-          # inteligência Computacional || Perceptron Simples || Rede RBF
+          Inteligência Computacional | Perceptron Simples | Rede RBF
 </h1>
 
 Trabalho referente a disciplina de Inteligência Computacional, na qual consiste em construir  em aplicar os conhecimentos sobre Perceptron e Rede RBF. Para mais informações sobre o assunto: 
