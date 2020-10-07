@@ -16,8 +16,8 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 2. Extraia o contéudo;
 3. Execute os arquivos:
 
-    - questao01.py em *Questão01/questao01.py*
-    - questao02.py em *Questão02/questao02.py*
+    - questao01.py em *Questão01/questao01.sce*
+    - questao02.py em *Questão02/questao02.sce*
 
 ## Sobre o projeto
 
@@ -25,13 +25,13 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 
 O trabalho consiste em implementar um neurônio Perceptron com valores de pesos inicialmente aleatórios para revolver o problema do AND com duas variáveis. O programa deve plotar os pontos da tabela-verdade e a reta de separação obtida.
 
-   - A resolução encontra-se no arquivo questao01.py em [*Questão01/questao01.py*](https://github.com/andressagomes26/rede_RBF/tree/master/Quest%C3%A3o1)
+   - A resolução encontra-se no arquivo questao01.sce em [*Questão01/questao01.sce*](https://github.com/andressagomes26/rede_RBF/tree/master/Quest%C3%A3o1)
 
 ### Questão 02
 
 Deve-se implementar uma rede RBF para criar uma curva que se ajuste ao conjunto de dadosdo aerogerador, plotar as curvas obtidas (e mostrar os valores de R2 correspondentes) para diferentes quantidades de neurônios ocultos.
 
-   - A resolução encontra-se no arquivo questao02.py em [*Questão02/questao02.py*](https://github.com/andressagomes26/rede_RBF/tree/master/Quest%C3%A3o2)
+   - A resolução encontra-se no arquivo questao02.sce em [*Questão02/questao02.sce*](https://github.com/andressagomes26/rede_RBF/tree/master/Quest%C3%A3o2)
 
 ## Autores
 - Andressa Gomes Moreira - andressagomes@alu.ufc.br.
