@@ -34,7 +34,7 @@ Deve-se implementar uma rede RBF para criar uma curva que se ajuste ao conjunto 
    - A resolução encontra-se no arquivo questao02.sce em [*Questão2/questao02.sce*](https://github.com/andressagomes26/rede_RBF/tree/master/Quest%C3%A3o2)
 
 ## Autores
-- Andressa Gomes Moreira - andressagomes@alu.ufc.br.
+- Andressa Gomes Moreira - andressagomes@alu.ufc.br
 
 ## Status do Projeto
 O projeto encontra-se finalizado, pois o objetivo foi alcançado, porém, está sujeito a devidas mudanças e melhorias. 
