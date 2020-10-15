@@ -26,8 +26,7 @@ function [Z, w]=pesos(n)
     
     // Definir o centroide
     aleat_x = grand(1,'prm', x) // Realiza uma pertubação nos valores da entrada x
-    centroide = aleat_x(1:n)   // Seleciona os n (número de neurônios ocultos) 
-                               //primeiros valores para compor o centroide.
+    centroide = aleat_x(1:n)   // Seleciona os n (número de neurônios ocultos) primeiros valores para compor o centroide.
     
     for i = 1:amostra
         
